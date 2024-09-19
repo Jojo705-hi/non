@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Choosing Responsibility</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work Commitment</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Family First</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Balanced Life</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site Map</title>
+</head>
+
+<body>
+    <h1>A New Beginning</h1>
+    <p>This is the story of a man who transformed his life when he learned he was going to be a father. Help him make choices that will shape his journey to becoming a man of value.</p>
+    <p>Start the journey:</p>
+    <p><a href="page1.html">Begin</a></p>
+    <h1>Choosing Responsibility</h1>
+    <p>Upon hearing the news, he is overwhelmed with emotion. He realizes that he needs to make a choice about how to approach his new life as a father.</p>
+    <p>What should he do?</p>
+    <p><a href="page2.html">Take on more responsibility at work</a><a href="page3.html">Spend more time with his family</a><a href="index.html">Go back to the home page</a></p>
+    <h1>Work Commitment</h1>
+    <p>He decides to work harder to provide for his new family. His dedication impresses his boss, but he begins to feel distant from his loved ones.</p>
+    <p>What&apos;s his next step?</p>
+    <p><a href="page4.html">Continue to focus on work</a><a href="page3.html">Realize the importance of balance</a><a href="index.html">Go back to the home page</a></p>
+    <h1>Family First</h1>
+    <p>He chooses to spend more time with his family, embracing his role as a father and supporting his partner through the pregnancy.</p>
+    <p>What should he focus on next?</p>
+    <p><a href="page4.html">Find a balance between work and family</a><a href="page2.html">Prioritize work for financial stability</a><a href="index.html">Go back to the home page</a></p>
+    <h1>A Balanced Life</h1>
+    <p>He learns to balance his work and personal life, becoming a supportive partner and a dedicated father. He realizes that being a man of value means being present for his family while also fulfilling his responsibilities.</p>
+    <p>The end of this chapter. But life goes on, and so does learning.</p>
+    <p><a href="index.html">Go back to the home page</a></p>
+    <h1>A New Beginning</h1>
+    <p>This is the story of a man who transformed his life when he learned he was going to be a father. Help him make choices that will shape his journey to becoming a man of value.</p>
+    <p>Start the journey:</p>
+    <p><a href="page1.html">Begin</a>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Choosing Responsibility</title>
+    </p>
+    <h1>Choosing Responsibility</h1>
+    <p>Upon hearing the news, he is overwhelmed with emotion. He realizes that he needs to make a choice about how to approach his new life as a father.</p>
+    <p>What should he do?</p>
+    <p><a href="page2.html">Take on more responsibility at work</a><a href="page3.html">Spend more time with his family</a><a href="index.html">Go back to the home page</a>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Work Commitment</title>
+    </p>
+    <h1>Work Commitment</h1>
+    <p>He decides to work harder to provide for his new family. His dedication impresses his boss, but he begins to feel distant from his loved ones.</p>
+    <p>What&apos;s his next step?</p>
+    <p><a href="page4.html">Continue to focus on work</a><a href="page3.html">Realize the importance of balance</a><a href="index.html">Go back to the home page</a>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Family First</title>
+    </p>
+    <h1>Family First</h1>
+    <p>He chooses to spend more time with his family, embracing his role as a father and supporting his partner through the pregnancy.</p>
+    <p>What should he focus on next?</p>
+    <p><a href="page4.html">Find a balance between work and family</a><a href="page2.html">Prioritize work for financial stability</a><a href="index.html">Go back to the home page</a>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>A Balanced Life</title>
+    </p>
+    <h1>A Balanced Life</h1>
+    <p>He learns to balance his work and personal life, becoming a supportive partner and a dedicated father. He realizes that being a man of value means being present for his family while also fulfilling his responsibilities.</p>
+    <p>The end of this chapter. But life goes on, and so does learning.</p>
+    <p><a href="index.html">Go back to the home page</a>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Site Map</title>
+    </p>
+    <h1>Site Map</h1>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="page1.html">Choosing Responsibility</a></li>
+        <li><a href="page2.html">Work Commitment</a></li>
+        <li><a href="page3.html">Family First</a></li>
+        <li><a href="page4.html">A Balanced Life</a></li>
+    </ul>
+</body>
+
+</html>
